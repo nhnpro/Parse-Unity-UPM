@@ -1,10 +1,14 @@
 {
 	"name": "com.namnh.parse-unity",
-	"version": "0.1.0",
+	"version": "0.3.0",
+	"displayName": "NHN-Parse-Unity",
 	"unity": "2018.3",
 	"description": "Parse For Unity Framework (WIP By 1B-NamNH)",
 	"keywords": ["parse", "parse-unity", "parse-upm"],
 	"category": "Plugins",
+	"author": {
+		"name": "NamNH-1B"
+	},
 	"dependencies": {
 	}
 }
