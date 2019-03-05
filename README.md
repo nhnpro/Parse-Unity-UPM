@@ -9,7 +9,7 @@ Make By 1B (nhnpro.nguyenhoang@gmail.com) for personal Projects
 {  
   "dependencies": {
 		...
-		"com.namnh.parse-unity": "https://github.com/nhnpro/Parse-Unity-UPM.git#0.3.0",
+		"com.namnh.parse-unity": "https://github.com/nhnpro/Parse-Unity-UPM.git#0.4.0",
 		...
 	}
 }

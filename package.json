@@ -1,6 +1,6 @@
 {
 	"name": "com.namnh.parse-unity",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"displayName": "NHN-Parse-Unity",
 	"unity": "2018.3",
 	"description": "Parse For Unity Framework (WIP By 1B-NamNH)",
